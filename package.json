@@ -1,0 +1,25 @@
+{
+  "name": "koremu",
+  "version": "0.0.1",
+  "description": "A password generator optimized for verbal and mental transmission.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/FossPrime/koremu.git"
+  },
+  "keywords": [
+    "password",
+    "koremutake",
+    "cli",
+    "generator"
+  ],
+  "author": "Ray Foss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/FossPrime/koremu/issues"
+  },
+  "homepage": "https://gitlab.com/FossPrime/koremu#readme"
+}
