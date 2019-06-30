@@ -1,10 +1,13 @@
 {
   "name": "koremu",
-  "version": "0.0.1",
+  "version": "0.6.0",
   "description": "A password generator optimized for verbal and mental transmission.",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
+  },
+  "bin": {
+    "koremu": "./app.js"
   },
   "repository": {
     "type": "git",
